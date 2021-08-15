@@ -7,5 +7,10 @@ Esse repositório será utilizado para treinar design patterns. Baseado principa
 
 # Quais padrões são utilizados e onde
 ## Strategy
-O Padrão Strategy define uma família de algoritmos e encapsula cada um deles. Strategy permite que o algoritmo mude independetemente dos clientes que o utilizam. Ele é utilizado em:
+O padrão Strategy define uma família de algoritmos e encapsula cada um deles. Strategy permite que o algoritmo mude independetemente dos clientes que o utilizam. Ele é utilizado em:
 - DuckSim
+
+## Observer
+O padrão Observer define uma dependência tipo um-para-muitos entre objetos de modo que quando um objeto tem o estado modificado, todos os seus dependentes são notificados e atualizados automaticamente. Ele é utilizado em:
+- WeatherStationRaw
+- WeatherStationWithJavaAPI
