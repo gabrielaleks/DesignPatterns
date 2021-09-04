@@ -7,6 +7,7 @@ _Patterns don’t give you code, they give you general solutions to design probl
   - [Strategy](#strategy)
   - [Observer](#observer)
   - [Decorator](#decorator)
+  - [Factory](#factory)
 
 
 # Design Patterns
@@ -34,3 +35,9 @@ O padrão Decorator atribui responsabilidades a um objeto dinamicamente. Decorat
 - [StarbuzzCoffee](/code/StarbuzzCoffe/StarbuzzCoffe.java)
 
 ![img](code/StarbuzzCoffe/beverages.jpg)
+
+## Factory
+Utilizado em:
+- [SimplePizzaStore](/code/SimplePizzaStore/SimplePizzaStore.java) (versão simplificada - aqui não foi usado o padrão Factory, porém demonstrado algo que é bem comum de se ver por aí).
+
+![img](code/SimplePizzaStore/simplefactory.jpg)
