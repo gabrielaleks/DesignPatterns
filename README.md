@@ -2,8 +2,15 @@ _Remember, knowing concepts like abstraction, inheritance, and polymorphism do n
 
 _Patterns don’t give you code, they give you general solutions to design problems. You apply them to your specific application. They aren't invented, but discovered, and most part of them address issues of change in software._
 
-# DesignPatterns
-Esse repositório será utilizado para treinar design patterns. Baseado principalmente no conteúdo do livro _Head First Design Patterns: A Brain-Friendly Guide_, embora o livro _Dive Into Design Patterns_ seja utilizado para referência.
+- [Design Patterns](#design-patterns)
+- [Quais padrões são utilizados e onde](#quais-padrões-são-utilizados-e-onde)
+  - [Strategy](#strategy)
+  - [Observer](#observer)
+  - [Decorator](#decorator)
+
+
+# Design Patterns
+Esse repositório será utilizado para estudar e treinar design patterns. Baseado principalmente no conteúdo do livro _Head First Design Patterns: A Brain-Friendly Guide_, embora o livro _Dive Into Design Patterns_ seja utilizado para referência.
 
 # Quais padrões são utilizados e onde
 ## Strategy
@@ -25,5 +32,3 @@ O padrão Observer define uma dependência tipo um-para-muitos entre objetos de 
 ## Decorator
 O padrão Decorator atribui responsabilidades a um objeto dinamicamente. Decorators fornecem uma alternativa flexível à herança de classes. Utilizado em:
 - [StarbuzzCoffee](/code/StarbuzzCoffe/StarbuzzCoffe.java)
-
-![img](/code/StarbuzzCoffe/beverages.jpg)
