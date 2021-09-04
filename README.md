@@ -14,3 +14,7 @@ O padrão Strategy define uma família de algoritmos e encapsula cada um deles. 
 O padrão Observer define uma dependência tipo um-para-muitos entre objetos de modo que quando um objeto tem o estado modificado, todos os seus dependentes são notificados e atualizados automaticamente. Ele é utilizado em:
 - WeatherStationRaw
 - WeatherStationWithJavaAPI
+
+## Decorator
+O padrão Decorator atribui responsabilidades a um objeto dinamicamente. Decorators fornecem uma alternativa flexível à herança de classes. Utilizado em:
+- StarbuzzCoffee
