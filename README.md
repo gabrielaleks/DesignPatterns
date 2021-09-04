@@ -32,3 +32,5 @@ O padrão Observer define uma dependência tipo um-para-muitos entre objetos de 
 ## Decorator
 O padrão Decorator atribui responsabilidades a um objeto dinamicamente. Decorators fornecem uma alternativa flexível à herança de classes. Utilizado em:
 - [StarbuzzCoffee](/code/StarbuzzCoffe/StarbuzzCoffe.java)
+
+![img](code/StarbuzzCoffe/beverages.jpg)
