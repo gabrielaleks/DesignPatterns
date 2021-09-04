@@ -10,11 +10,20 @@ Esse repositório será utilizado para treinar design patterns. Baseado principa
 O padrão Strategy define uma família de algoritmos e encapsula cada um deles. Strategy permite que o algoritmo mude independetemente dos clientes que o utilizam. Ele é utilizado em:
 - [DuckSim](/code/DuckSim/MiniDuckSimulator.java)
 
+![img](/code/DuckSim/finalresult.jpg)
+
 ## Observer
 O padrão Observer define uma dependência tipo um-para-muitos entre objetos de modo que quando um objeto tem o estado modificado, todos os seus dependentes são notificados e atualizados automaticamente. Ele é utilizado em:
 - [WeatherStationRaw](/code/WeatherStationRaw/WeatherStation.java)
+
+![img](/code/WeatherStationRaw/raw_finalresult.jpg)
+
 - [WeatherStationWithJavaAPI](/code/WeatherStationWithJavaAPI/WeatherStation.java)
+
+![img](/code/WeatherStationWithJavaAPI/api_finalresult.jpg)
 
 ## Decorator
 O padrão Decorator atribui responsabilidades a um objeto dinamicamente. Decorators fornecem uma alternativa flexível à herança de classes. Utilizado em:
 - [StarbuzzCoffee](/code/StarbuzzCoffe/StarbuzzCoffe.java)
+
+![img](/code/StarbuzzCoffe/beverages.jpg)
